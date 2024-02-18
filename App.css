@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  height: 100vh;
+  width: 100%;
+  background: #2d3436;
+  transition:  all 0.3s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+ 
+}
+
+
+.draw-area h1{
+  text-align: center;
+  color: white;
+}
+

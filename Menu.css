@@ -1,0 +1,11 @@
+.brush-menu{
+    display: flex;
+    background-color: black;
+    gap:20px;
+    padding: 15px;
+    border-radius: 7px;
+}
+
+.brush-menu label {
+    color: white;
+}
